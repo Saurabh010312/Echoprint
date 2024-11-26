@@ -2,6 +2,7 @@
 
 
 
+
 ## 😎 Features
 
 - Beauty UI similar to ecommerce website
@@ -31,3 +32,17 @@ $ npm start
 ```
 👨‍💻 Happy coding!
 ---
+
+
+The app will be available at [http://localhost:3000](http://localhost:3000).
+
+---
+
+## 🌐 Live Demo
+
+Check out the live demo here: [https://echoprint.vercel.app/](https://echoprint.vercel.app/)
+
+---
+
+👨‍💻 Happy coding! 🎉
+
